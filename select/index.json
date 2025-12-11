@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "キミに100パーセント",
+  "base_artist": "Kyary Pamyu Pamyu",
+  "createdAt": "2025-12-11T09:49:39.968060Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミに100パーセント",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/01_キミに100パーセント_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/02_キミに100パーセント_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kimi ni 100 Percent [キミに100パーセント]",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/03_Kimi_ni_100_Percent_[キミに100パーセント]_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kimini 100 Percent (キミに100パーセント)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/04_Kimini_100_Percent_(キミに100パーセント)_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kimini 100 Percent (キミに100パーセント)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/05_Kimini_100_Percent_(キミに100パーセント)_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/06_キミに100パーセント_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kimi ni 100 Percent (キミに100パーセント; 100% For You)",
+      "artist": "Kyary Pamyu Pamyu（きゃりーぱみゅぱみゅ）",
+      "has_synced": true,
+      "path": "select/07_Kimi_ni_100_Percent_(キミに100パーセント;_100__For_You)_Kyary_Pamyu_Pamyu(きゃりーぱみゅぱみゅ).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kimi ni 100 Percent (キミに100パーセント; 100% For You)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/08_Kimi_ni_100_Percent_(キミに100パーセント;_100__For_You)_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "キミに100パーセント - Kimini 100 Percent",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/09_キミに100パーセント_-_Kimini_100_Percent_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "キミに100パーセント",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/10_キミに100パーセント_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": true,
+      "path": "select/11_キミに100パーセント_きゃりーぱみゅぱみゅ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_01_キミに100パーセント_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_02_キミに100パーセント_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_03_キミに100パーセント_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_04_キミに100パーセント_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_05_キミに100パーセント_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_06_キミに100パーセント_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_07_キミに100パーセント_きゃりーぱみゅぱみゅ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "キミに100パーセント - アニメヴァージョン",
+      "artist": "きゃりーぱみゅぱみゅ",
+      "has_synced": false,
+      "path": "select/pl_08_キミに100パーセント_-_アニメヴァージョン_きゃりーぱみゅぱみゅ.txt"
+    }
+  ]
+}
